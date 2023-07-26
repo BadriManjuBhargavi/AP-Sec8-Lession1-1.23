@@ -1,0 +1,8 @@
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\InsertionSort-Sec8-Lsn1-1.23\InsertionSort-Sec8-Lsn1-1.23\bin\Debug\InsertionSort-Sec8-Lsn1-1.23.exe.config
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\InsertionSort-Sec8-Lsn1-1.23\InsertionSort-Sec8-Lsn1-1.23\bin\Debug\InsertionSort-Sec8-Lsn1-1.23.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\InsertionSort-Sec8-Lsn1-1.23\InsertionSort-Sec8-Lsn1-1.23\bin\Debug\InsertionSort-Sec8-Lsn1-1.23.pdb
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\InsertionSort-Sec8-Lsn1-1.23\InsertionSort-Sec8-Lsn1-1.23\obj\Debug\InsertionSort-Sec8-Lsn1-1.23.csproj.AssemblyReference.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\InsertionSort-Sec8-Lsn1-1.23\InsertionSort-Sec8-Lsn1-1.23\obj\Debug\InsertionSort-Sec8-Lsn1-1.23.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\InsertionSort-Sec8-Lsn1-1.23\InsertionSort-Sec8-Lsn1-1.23\obj\Debug\InsertionSort-Sec8-Lsn1-1.23.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\InsertionSort-Sec8-Lsn1-1.23\InsertionSort-Sec8-Lsn1-1.23\obj\Debug\InsertionSort-Sec8-Lsn1-1.23.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\InsertionSort-Sec8-Lsn1-1.23\InsertionSort-Sec8-Lsn1-1.23\obj\Debug\InsertionSort-Sec8-Lsn1-1.23.pdb
